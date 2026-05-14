@@ -142,18 +142,6 @@ https://github.com/ParthrChandurkar/Pharmenia---Pharmacy-Management-System
 
 ---
 
-## ⚡ Fun Fact
-
-```yaml
-while(alive){
-   eat();
-   code();
-   build();
-   learn();
-   repeat();
-}
-```
-
 ---
 
 <p align="center">
