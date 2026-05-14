@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Parth Chandurkar</h1>
+<h1 align="center">Hi 👋, I'm Parth Rajesh Chandurkar</h1>
 <h3 align="center">Aspiring Cloud & DevOps Engineer ☁️</h3>
 
 <p align="center">
