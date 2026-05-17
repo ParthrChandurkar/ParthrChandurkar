@@ -161,7 +161,7 @@ focus:
           <img src="https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-      <p>A full-stack digital mental wellness ecosystem combining Cognitive Behavioral Therapy (CBT), AI-driven mood analytics, and gamified self-care — built for students and young professionals.</p>
+      <p>A Full-stack digital mental wellness ecosystem integrating Cognitive Behavioral Therapy (CBT), AI-driven mood analytics, and gamified self-care — built for students and young professionals.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
