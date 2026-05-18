@@ -177,7 +177,7 @@ focus:
           <img src="https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-      <p>ML model-driven F1 race prediction engine with MLOps pipeline — DVC, Dockerisation, GitHub Actions CI/CD, and automated strategy simulation.</p>
+      <p>ML models-driven F1 race prediction engine with MLOps pipeline — DVC, Dockerisation, GitHub Actions CI/CD, and automated strategy simulation.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/MLOps-22c55e?style=flat-square"/>
@@ -195,7 +195,7 @@ focus:
           <img src="https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-      <p>Full-featured desktop pharmacy management — stock purchasing, medicine batch tracking, expiry alerts, vendor coordination, and RBAC auth. Cloud-ready on AWS RDS.</p>
+      <p>Full-featured desktop pharmacy management — stock purchasing, medicine batch tracking, expiry alerts, vendor coordination, and RBAC authentication. Cloud-ready on AWS RDS.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Tkinter-lightgrey?style=flat-square"/>
