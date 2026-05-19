@@ -220,17 +220,6 @@ focus:
       </p>
     </td>
   </tr>
-  <tr>
-    <td colspan="2" align="center" valign="top">
-      <h3 align="center">🤖 PDF-Based Chatbot</h3>
-      <p align="center"><b>Local RAG · No API Keys Needed</b></p>
-      <p align="center">
-        <a href="https://github.com/ParthrChandurkar/PDF-Based-Chatbot">
-          <img src="https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-      <p align="center">Chat with your PDFs using a fully local AI stack — RAG pipeline, MiniLM embeddings, FLAN-T5 generation, voice input, TTS output, and cited answers. Zero API cost.</p>
-      
 </table>
 
 ---
