@@ -220,6 +220,17 @@ focus:
       </p>
     </td>
   </tr>
+   <tr>
+    <td colspan="2" align="center" valign="top">    
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/RAG-22c55e?style=flat-square"/>
+        <img src="https://img.shields.io/badge/FLAN--T5-FFD21E?style=flat-square"/>
+        <img src="https://img.shields.io/badge/MiniLM-38BDF8?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Voice_I%2FO-ef4444?style=flat-square"/>
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
