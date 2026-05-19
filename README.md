@@ -220,10 +220,6 @@ focus:
       </p>
     </td>
   </tr>
-   <tr>
-    <td colspan="2" align="center" valign="top">    
-    </td>
-  </tr>
 </table>
 
 ---
