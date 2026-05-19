@@ -230,15 +230,7 @@ focus:
         </a>
       </p>
       <p align="center">Chat with your PDFs using a fully local AI stack — RAG pipeline, MiniLM embeddings, FLAN-T5 generation, voice input, TTS output, and cited answers. Zero API cost.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/RAG-22c55e?style=flat-square"/>
-        <img src="https://img.shields.io/badge/FLAN--T5-FFD21E?style=flat-square"/>
-        <img src="https://img.shields.io/badge/MiniLM-38BDF8?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Voice_I%2FO-ef4444?style=flat-square"/>
-      </p>
-    </td>
-  </tr>
+      
 </table>
 
 ---
