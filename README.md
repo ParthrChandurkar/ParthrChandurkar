@@ -27,7 +27,7 @@
 
 ```yaml
 name:     Parth Rajesh Chandurkar
-role:     Cloud & DevOps Engineer
+role:     Aspiring Cloud & DevOps Engineer
 location: Pune, India 🇮🇳
 focus:
   - ☁️  Cloud Computing · DevOps · MLOps
@@ -161,7 +161,7 @@ focus:
           <img src="https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-      <p>A Full-stack digital mental wellness ecosystem integrating Cognitive Behavioral Therapy (CBT), AI-driven mood analytics, and gamified self-care — built for students and young professionals.</p>
+      <p>A full-stack digital mental wellness ecosystem combining Cognitive Behavioral Therapy (CBT), AI-driven mood analytics, and gamified self-care — built for students and young professionals.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
@@ -177,7 +177,7 @@ focus:
           <img src="https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-      <p>ML models-driven F1 race prediction engine with MLOps pipeline — DVC, Dockerisation, GitHub Actions CI/CD, and automated strategy simulation.</p>
+      <p>ML model-driven F1 race prediction engine with MLOps pipeline — DVC, Dockerisation, GitHub Actions CI/CD, and automated strategy simulation.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/MLOps-22c55e?style=flat-square"/>
@@ -195,7 +195,7 @@ focus:
           <img src="https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-      <p>Full-featured desktop pharmacy management — stock purchasing, medicine batch tracking, expiry alerts, vendor coordination, and RBAC authentication. Cloud-ready on AWS RDS.</p>
+      <p>Full-featured desktop pharmacy management — stock purchasing, medicine batch tracking, expiry alerts, vendor coordination, and RBAC auth. Cloud-ready on AWS RDS.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Tkinter-lightgrey?style=flat-square"/>
@@ -228,20 +228,14 @@ focus:
 
 <div align="center">
 
-<a href="https://github.com/ParthrChandurkar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ParthrChandurkar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=a855f7&text_color=e2e8f0&ring_color=38bdf8&count_private=true&include_all_commits=true&cache_seconds=1800" alt="Parth's GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthrChandurkar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0&langs_count=8&cache_seconds=1800" alt="Top Languages"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=ParthrChandurkar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=a855f7&text_color=e2e8f0&ring_color=38bdf8" height="175"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthrChandurkar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0" height="175"/>
 
 </div>
 
 <div align="center">
-
-<a href="https://github.com/ParthrChandurkar">
-  <img src="https://streak-stats.demolab.com/?user=ParthrChandurkar&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=a855f7&currStreakLabel=38bdf8&sideLabels=38bdf8&dates=e2e8f0" width="60%" alt="GitHub Streak"/>
-</a>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ParthrChandurkar&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=a855f7&currStreakLabel=38bdf8" width="60%"/>
 </div>
 
 ---
@@ -249,7 +243,7 @@ focus:
 ## 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ParthrChandurkar&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38bdf8&line=a855f7&point=e2e8f0" width="95%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ParthrChandurkar&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38bdf8&line=a855f7&point=e2e8f0" width="95%"/>
 </div>
 
 ---
@@ -257,7 +251,7 @@ focus:
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ParthrChandurkar&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" width="95%" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ParthrChandurkar&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" width="95%"/>
 </div>
 
 ---
@@ -266,7 +260,7 @@ focus:
 
 <div align="center">
 <a href="https://leetcode.com/u/parthchn28/">
-  <img src="https://leetcard.jacoblin.cool/parthchn28?theme=dark&font=JetBrains+Mono&ext=contest&border=0&radius=10" width="50%" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/parthchn28?theme=dark&font=JetBrains+Mono&ext=contest&border=0&radius=10" width="50%"/>
 </a>
 </div>
 
