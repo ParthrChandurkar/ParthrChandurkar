@@ -228,14 +228,20 @@ focus:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ParthrChandurkar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=a855f7&text_color=e2e8f0&ring_color=38bdf8" height="175"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthrChandurkar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0" height="175"/>
+<a href="https://github.com/ParthrChandurkar">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ParthrChandurkar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=a855f7&text_color=e2e8f0&ring_color=38bdf8&count_private=true&include_all_commits=true&cache_seconds=1800" alt="Parth's GitHub Stats"/>
+  &nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthrChandurkar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0&langs_count=8&cache_seconds=1800" alt="Top Languages"/>
+</a>
 
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ParthrChandurkar&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=a855f7&currStreakLabel=38bdf8" width="60%"/>
+
+<a href="https://github.com/ParthrChandurkar">
+  <img src="https://streak-stats.demolab.com/?user=ParthrChandurkar&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=a855f7&currStreakLabel=38bdf8&sideLabels=38bdf8&dates=e2e8f0" width="60%" alt="GitHub Streak"/>
+</a>
+
 </div>
 
 ---
@@ -243,7 +249,7 @@ focus:
 ## 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ParthrChandurkar&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38bdf8&line=a855f7&point=e2e8f0" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ParthrChandurkar&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38bdf8&line=a855f7&point=e2e8f0" width="95%" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -251,7 +257,7 @@ focus:
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ParthrChandurkar&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ParthrChandurkar&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" width="95%" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -260,7 +266,7 @@ focus:
 
 <div align="center">
 <a href="https://leetcode.com/u/parthchn28/">
-  <img src="https://leetcard.jacoblin.cool/parthchn28?theme=dark&font=JetBrains+Mono&ext=contest&border=0&radius=10" width="50%"/>
+  <img src="https://leetcard.jacoblin.cool/parthchn28?theme=dark&font=JetBrains+Mono&ext=contest&border=0&radius=10" width="50%" alt="LeetCode Stats"/>
 </a>
 </div>
 
