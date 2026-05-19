@@ -240,14 +240,6 @@ focus:
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ParthrChandurkar&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38bdf8&line=a855f7&point=e2e8f0" width="95%"/>
-</div>
-
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -262,6 +254,14 @@ focus:
 <a href="https://leetcode.com/u/parthchn28/">
   <img src="https://leetcard.jacoblin.cool/parthchn28?theme=dark&font=JetBrains+Mono&ext=contest&border=0&radius=10" width="50%"/>
 </a>
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ParthrChandurkar&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38bdf8&line=22c55e&point=e2e8f0&area=true&area_color=22c55e" width="95%"/>
 </div>
 
 ---
