@@ -27,7 +27,7 @@
 
 ```yaml
 name:     Parth Rajesh Chandurkar
-role:     Aspiring Cloud & DevOps Engineer
+role:     Cloud & DevOps Engineer
 location: Pune, India 🇮🇳
 focus:
   - ☁️  Cloud Computing · DevOps · MLOps
