@@ -154,8 +154,8 @@ focus:
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🧠 ZenithMind</h3>
-      <p align="center"><b>AI-Powered Mental Health Assistant</b></p>
+      <h3 align="center">🧠 Zenithmind</h3>
+      <p align="center"><b>AI-Powered Mental Health Assistant with CBT</b></p>
       <p align="center">
         <a href="https://github.com/ParthrChandurkar/-ZenithMind-AI-Powered-Mental-Health-Assistant">
           <img src="https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
