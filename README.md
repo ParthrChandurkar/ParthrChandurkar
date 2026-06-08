@@ -36,7 +36,6 @@ focus:
   - 🐳  Docker · Kubernetes · CI/CD Pipelines
   - ⚡  n8n · Zapier · Make · Workflow Automation
   - 🎯  AWS Infrastructure · Terraform · System Design
-  - 🚀  Founder @ Aranor Systems — AI Automation Agency
   - 📚  Always learning · Always building · Always shipping
 ```
 
