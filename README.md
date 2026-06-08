@@ -6,7 +6,7 @@
 
 <!-- ═══════════════════════════ TYPING ANIMATION ═══════════════════════════ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=55&lines=Building+Cloud-Native+Systems+%E2%98%81%EF%B8%8F;Automating+Everything+with+DevOps+%F0%9F%94%A7;Crafting+AI+%2F+ML+Solutions+%F0%9F%A4%96;AWS+%7C+Docker+%7C+Kubernetes+%7C+Jenkins+%7C+Terraform;Always+shipping%2C+always+learning+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=55&lines=Building+Cloud-Native+Systems+%E2%98%81%EF%B8%8F;Automating+Everything+with+DevOps+%F0%9F%94%A7;Crafting+AI+%2F+ML+Solutions+%F0%9F%A4%96;AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform+%7C+n8n;Always+shipping%2C+always+learning+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <!-- ═══════════════════════════ SOCIAL BADGES ═══════════════════════════ -->
 
@@ -15,6 +15,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parthrchn27@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parthrchn16)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/parthchn28/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://parth-chandurkar.vercel.app)
 [![Profile Views](https://komarev.com/ghpvc/?username=ParthrChandurkar&label=Profile+Views&color=0ea5e9&style=for-the-badge)](https://github.com/ParthrChandurkar)
 
 <br/>
@@ -27,15 +28,16 @@
 
 ```yaml
 name:     Parth Rajesh Chandurkar
-role:     Cloud & DevOps Engineer
+role:     Cloud & DevOps Engineer · AI Automation Builder
 location: Pune, India 🇮🇳
 focus:
   - ☁️  Cloud Computing · DevOps · MLOps
-  - 🤖  AI/ML & Intelligent Systems
+  - 🤖  AI/ML · Intelligent Systems · AI Automation
   - 🐳  Docker · Kubernetes · CI/CD Pipelines
-  - ⚡  Scalable Full-Stack & Cloud-Native Apps
-  - 🎯  AWS Infrastructure · Automation · System Design
-  - 📚  Always learning · Always building
+  - ⚡  n8n · Zapier · Make · Workflow Automation
+  - 🎯  AWS Infrastructure · Terraform · System Design
+  - 🚀  Founder @ Aranor Systems — AI Automation Agency
+  - 📚  Always learning · Always building · Always shipping
 ```
 
 ---
@@ -86,7 +88,7 @@ focus:
     <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48"/><br/><sub><b>MySQL</b></sub>
   </td>
   <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="48"/><br/><sub><b>Firebase</b></sub>
+    <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48"/><br/><sub><b>PostgreSQL</b></sub>
   </td>
 </tr></table>
 
@@ -105,13 +107,13 @@ focus:
     <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" width="48"/><br/><sub><b>Kubernetes</b></sub>
   </td>
   <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=terraform&theme=dark" width="48"/><br/><sub><b>Terraform</b></sub>
+  </td>
+  <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=jenkins&theme=dark" width="48"/><br/><sub><b>Jenkins</b></sub>
   </td>
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48"/><br/><sub><b>GitHub</b></sub>
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=git&theme=dark" width="48"/><br/><sub><b>Git</b></sub>
   </td>
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48"/><br/><sub><b>Linux</b></sub>
@@ -124,9 +126,34 @@ focus:
   <img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white" alt="RDS"/>
   <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" alt="Lambda"/>
   <img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white" alt="IAM"/>
+  <img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="CloudWatch"/>
   <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" alt="DynamoDB"/>
-  <img src="https://img.shields.io/badge/Athena-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Athena"/>
 </p>
+
+---
+
+### ⚡ AI Automation
+
+<table align="center"><tr>
+  <td align="center" width="96">
+    <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" height="40"/><br/><sub><b>n8n</b></sub>
+  </td>
+  <td align="center" width="96">
+    <img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white" height="40"/><br/><sub><b>Zapier</b></sub>
+  </td>
+  <td align="center" width="96">
+    <img src="https://img.shields.io/badge/Make-6D00CC?style=flat&logo=make&logoColor=white" height="40"/><br/><sub><b>Make</b></sub>
+  </td>
+  <td align="center" width="96">
+    <img src="https://img.shields.io/badge/Webhooks-0ea5e9?style=flat&logoColor=white" height="40"/><br/><sub><b>Webhooks</b></sub>
+  </td>
+  <td align="center" width="96">
+    <img src="https://img.shields.io/badge/REST_APIs-22c55e?style=flat&logoColor=white" height="40"/><br/><sub><b>REST APIs</b></sub>
+  </td>
+  <td align="center" width="96">
+    <img src="https://img.shields.io/badge/AI_Agents-a855f7?style=flat&logoColor=white" height="40"/><br/><sub><b>AI Agents</b></sub>
+  </td>
+</tr></table>
 
 ---
 
@@ -143,7 +170,10 @@ focus:
     <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="48"/><br/><sub><b>scikit-learn</b></sub>
   </td>
   <td align="center" width="96">
-    <img src="https://img.shields.io/badge/🤗-FFD21E?style=flat&logoColor=black" width="48" height="48"/><br/><sub><b>HuggingFace</b></sub>
+    <img src="https://img.shields.io/badge/MLOps-22c55e?style=flat&logoColor=white" height="48"/><br/><sub><b>MLOps</b></sub>
+  </td>
+  <td align="center" width="96">
+    <img src="https://img.shields.io/badge/NLP-38BDF8?style=flat&logoColor=white" height="48"/><br/><sub><b>NLP</b></sub>
   </td>
 </tr></table>
 
@@ -154,21 +184,42 @@ focus:
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🧠 Zenithmind</h3>
-      <p align="center"><b>AI-Powered Mental Health Assistant with CBT</b></p>
+      <h3 align="center">🧠 ZenithMind</h3>
+      <p align="center"><b>AI-Powered Mental Health Assistant</b></p>
       <p align="center">
         <a href="https://github.com/ParthrChandurkar/-ZenithMind-AI-Powered-Mental-Health-Assistant">
           <img src="https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
+        <a href="https://drive.google.com/file/d/1Uax5n5iSvLYXzWcYPgDl_za4hmlUQw_Z/view?usp=drive_link">
+          <img src="https://img.shields.io/badge/IEEE_Paper-00629B?style=for-the-badge&logo=ieee&logoColor=white"/>
+        </a>
       </p>
-      <p>A full-stack digital mental wellness ecosystem combining Cognitive Behavioral Therapy (CBT), AI-driven mood analytics, and gamified self-care — built for students and young professionals.</p>
+      <p>CBT-based mental wellness platform with NLP-driven AI chatbot, sentiment analysis, and virtual therapist escalation — deployed as microservices on AWS EC2 with Kubernetes HPA. <b>IEEE Published.</b></p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
         <img src="https://img.shields.io/badge/NLP-38BDF8?style=flat-square"/>
-        <img src="https://img.shields.io/badge/CBT_AI-a855f7?style=flat-square"/>
       </p>
     </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🔭 InfraWatch</h3>
+      <p align="center"><b>Zero-Touch Deployments & Full Infrastructure Visibility</b></p>
+      <p align="center">
+        <a href="https://github.com/ParthrChandurkar/InfraWatch-Zero-Touch-Deployments-with-Full-Infrastructure-Visibility">
+          <img src="https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p>Production-grade DevOps platform — push code and GitHub Actions auto-builds, Docker packages, and Kubernetes deploys. Full observability via Prometheus, Grafana, Loki & Alertmanager. Provisioned with Terraform & Helm.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">🏎️ F1 Race Prediction</h3>
       <p align="center"><b>ML-Powered Race Strategy System</b></p>
@@ -177,16 +228,14 @@ focus:
           <img src="https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-      <p>ML model-driven F1 race prediction engine with MLOps pipeline — DVC, Dockerisation, GitHub Actions CI/CD, and automated strategy simulation.</p>
+      <p>End-to-end ML pipeline predicting F1 race outcomes and pit-stop strategies with 78% accuracy. Full MLOps workflow — DVC, Docker, GitHub Actions CI/CD, and strategy simulation on AWS EC2.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/MLOps-22c55e?style=flat-square"/>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-        <img src="https://img.shields.io/badge/DVC-945DD6?style=flat-square"/>
+        <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">💊 Pharmenia</h3>
       <p align="center"><b>Pharmacy Management System</b></p>
@@ -195,28 +244,12 @@ focus:
           <img src="https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-      <p>Full-featured desktop pharmacy management — stock purchasing, medicine batch tracking, expiry alerts, vendor coordination, and RBAC auth. Cloud-ready on AWS RDS.</p>
+      <p>Cloud-ready multi-store pharmacy management with batch tracking, expiry alerts, vendor coordination and RBAC auth. MySQL on AWS RDS, containerized with Docker for consistent cross-store deployment.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tkinter-lightgrey?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
         <img src="https://img.shields.io/badge/AWS_RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🌐 AI Network Route Optimizer</h3>
-      <p align="center"><b>Graph + ML Routing Intelligence</b></p>
-      <p align="center">
-        <a href="https://github.com/ParthrChandurkar/AI-Based-Network-Route-Optimizer">
-          <img src="https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-      <p>Combines classical graph algorithms with a Random Forest ML model to predict link failure probability and optimize real-time network routing paths.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Graphs-0ea5e9?style=flat-square"/>
-        <img src="https://img.shields.io/badge/ML-a855f7?style=flat-square"/>
       </p>
     </td>
   </tr>
