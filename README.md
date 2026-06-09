@@ -29,7 +29,7 @@
 ```yaml
 name:     Parth Rajesh Chandurkar
 role:     Cloud & DevOps Engineer · AI Automation Builder
-location: Pune, India 🇮🇳
+location: Pune, India
 focus:
   - ☁️  Cloud Computing · DevOps · MLOps
   - 🤖  AI/ML · Intelligent Systems · AI Automation
