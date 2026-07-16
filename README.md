@@ -29,13 +29,14 @@
 ```yaml
 name:     Parth Rajesh Chandurkar
 role:     Cloud & DevOps Engineer · AI Automation Builder
-location: Pune, India
+location: Pune, India 🇮🇳
 focus:
   - ☁️  Cloud Computing · DevOps · MLOps
   - 🤖  AI/ML · Intelligent Systems · AI Automation
   - 🐳  Docker · Kubernetes · CI/CD Pipelines
   - ⚡  n8n · Zapier · Make · Workflow Automation
   - 🎯  AWS Infrastructure · Terraform · System Design
+  - 🚀  Founder @ Aranor Systems — AI Automation Agency
   - 📚  Always learning · Always building · Always shipping
 ```
 
@@ -189,7 +190,7 @@ focus:
         <a href="https://github.com/ParthrChandurkar/-ZenithMind-AI-Powered-Mental-Health-Assistant">
           <img src="https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
-        <a href="https://drive.google.com/file/d/1Uax5n5iSvLYXzWcYPgDl_za4hmlUQw_Z/view?usp=drive_link">
+        <a href="https://ieeexplore.ieee.org/document/11566649">
           <img src="https://img.shields.io/badge/IEEE_Paper-00629B?style=for-the-badge&logo=ieee&logoColor=white"/>
         </a>
       </p>
