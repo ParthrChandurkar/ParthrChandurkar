@@ -36,7 +36,6 @@ focus:
   - 🐳  Docker · Kubernetes · CI/CD Pipelines
   - ⚡  n8n · Zapier · Make · Workflow Automation
   - 🎯  AWS Infrastructure · Terraform · System Design
-  - 🚀  Founder @ Aranor Systems — AI Automation Agency
   - 📚  Always learning · Always building · Always shipping
 ```
 
@@ -244,11 +243,11 @@ focus:
           <img src="https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-      <p>⚠️ PLACEHOLDER — repo not reachable publicly as of this edit (private, unindexed, or name mismatch). Description below is not verified against real repo content — swap it out once confirmed.</p>
-      <p><i>Quant-driven portfolio decision-support system for optimal asset allocation.</i></p>
+      <p>Quantitative decision-support system for Indian equities — a Model → Solve → Explain → Simulate loop that turns risk appetite and sector/diversification constraints into an explainable Nifty 50 allocation, stress-tests it against market shocks, and exports an investment-committee-ready report.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/UNVERIFIED-991b1b?style=flat-square"/>
+        <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
       </p>
     </td>
   </tr>
