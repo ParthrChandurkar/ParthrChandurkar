@@ -148,7 +148,7 @@ focus:
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🔭 InfraWatch</h3>
-      <p align="center"><b>Local Kubernetes Deployment & Observability Platform</b></p>
+      <p align="center"><b>Local K8s Deployment & Observability Platform</b></p>
       <p align="center">
         <a href="https://github.com/ParthrChandurkar/InfraWatch-Zero-Touch-Deployments-with-Full-Infrastructure-Visibility">
           <img src="https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
