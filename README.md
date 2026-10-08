@@ -37,7 +37,7 @@ focus:
   - 🐳  Docker · Kubernetes · Minikube · Helm
   - 🔧  GitHub Actions · CI/CD Pipelines
   - 🔭  Prometheus · Grafana · Alertmanager 
-  - 🏗️  Terraform · Ansible · Infrastructure as Code
+  - 🏗️  Terraform · Infrastructure as Code
 ```
 
 ---
@@ -76,9 +76,6 @@ focus:
     <img src="https://skillicons.dev/icons?i=terraform&theme=dark" width="48"/><br/><sub><b>Terraform</b></sub>
   </td>
   <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=jenkins&theme=dark" width="48"/><br/><sub><b>Jenkins</b></sub>
-  </td>
-  <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48"/><br/><sub><b>GitHub Actions</b></sub>
   </td>
   <td align="center" width="96">
@@ -97,7 +94,7 @@ focus:
 
 ---
 
-### 🔭 Observability & Infrastructure
+### 🔭 Observability
 
 <table align="center"><tr>
   <td align="center" width="96">
@@ -107,13 +104,7 @@ focus:
     <img src="https://skillicons.dev/icons?i=grafana&theme=dark" width="48"/><br/><sub><b>Grafana</b></sub>
   </td>
   <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=ansible&theme=dark" width="48"/><br/><sub><b>Ansible</b></sub>
-  </td>
-  <td align="center" width="96">
     <img src="https://img.shields.io/badge/Alertmanager-E6522C?style=flat&logo=prometheus&logoColor=white" height="48"/><br/><sub><b>Alertmanager</b></sub>
-  </td>
-  <td align="center" width="96">
-    <img src="https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white" height="48"/><br/><sub><b>Splunk</b></sub>
   </td>
 </tr></table>
 
