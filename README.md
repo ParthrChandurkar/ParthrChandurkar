@@ -35,10 +35,9 @@ research: IEEE Published · ZenithMind · ieeexplore.ieee.org/document/11566649
 focus:
   - ☁️  AWS · EC2 · S3 · RDS · Lambda · IAM · CloudWatch
   - 🐳  Docker · Kubernetes · Minikube · Helm
-  - 🔧  GitHub Actions · Jenkins · CI/CD Pipelines
-  - 🔭  Prometheus · Grafana · Alertmanager · Splunk
+  - 🔧  GitHub Actions · CI/CD Pipelines
+  - 🔭  Prometheus · Grafana · Alertmanager 
   - 🏗️  Terraform · Ansible · Infrastructure as Code
-  - 📚  Currently learning: RHEL · OpenShift
 ```
 
 ---
