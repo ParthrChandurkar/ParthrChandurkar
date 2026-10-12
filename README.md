@@ -1,14 +1,10 @@
- <div align="center">
-
 # Hi 👋, I'm Parth Chandurkar
 
 **Cloud & DevOps Enthusiast ☁️**
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:parthrchn27@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/parth-chandurkar)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ParthrChandurkar)
-
-</div>
+📧 **Email:** [parthrchn27@gmail.com](mailto:parthrchn27@gmail.com)  
+💼 **LinkedIn:** [Parth Chandurkar](https://linkedin.com/in/parth-chandurkar)  
+🌐 **Portfolio:** [parth-chandurkar.vercel.app](https://parth-chandurkar.vercel.app)
 
 I'm an IT student at VIIT Pune, India, exploring cloud infrastructure, automation, and cloud-native technologies.
 
