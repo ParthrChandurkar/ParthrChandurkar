@@ -25,6 +25,6 @@ I'm an IT student at VIIT Pune, India, exploring cloud infrastructure, automatio
 
 **Cloud & DevOps:** AWS, Docker, Kubernetes, Terraform, Helm, Kustomize, GitHub Actions, Linux
 
-**Observability:** Prometheus, Grafana, Alertmanager
+**Observability:** Prometheus, Grafana, Alertmanager 
 
-**Frameworks & Databases:** FastAPI, MongoDB, MySQL, PostgreSQL
+**Frameworks & Databases:** FastAPI, MongoDB, MySQL, PostgreSQL, Redis
