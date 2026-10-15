@@ -15,7 +15,7 @@ I'm an IT student at VIIT Pune, India, exploring cloud infrastructure, automatio
 
 ### 💼 Experience
 
-- **InfraWatch — Creator & Lead Engineer:** Built a local-first Kubernetes deployment and observability platform using Python, FastAPI, and React, integrating Prometheus, Loki, Alertmanager, and GitHub Actions for infrastructure visibility and automation.
+- **ClueStack — Creator & Lead Engineer:** Built a local-first Kubernetes deployment and observability platform using Python, FastAPI, and React, integrating Prometheus, Loki, Alertmanager, and GitHub Actions for infrastructure visibility and automation.
 
 - **ZenithMind — Research Project:** Worked on an AI-powered mental wellness platform deployed using AWS EC2, Docker, and Kubernetes, incorporating Google Fit data into wellness analytics. Co-authored an [IEEE-published research paper](https://ieeexplore.ieee.org/document/11566649).
 
