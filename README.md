@@ -1,5 +1,3 @@
-# Hi 👋, I'm Parth Chandurkar
-
 <div align="left">
   <h1>Hi 👋, I'm Parth Chandurkar <a href="https://cloud.layer5.io/user/46dc1a83-ac8d-41e6-882b-a98b5a789e86?tab=badges&badge=first-design"><img src="https://badges.layer5.io/assets/badges/first-design/first-design.png" width="55" alt="Design Pioneer Level 1" /></a></h1>
 </div>
