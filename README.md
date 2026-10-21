@@ -1,10 +1,6 @@
 # Hi 👋, I'm Parth Chandurkar
 
-<div align="right">
-  <a href="https://cloud.layer5.io/user/46dc1a83-ac8d-41e6-882b-a98b5a789e86?tab=badges&badge=first-design">
-    <img src="https://badges.layer5.io/assets/badges/first-design/first-design.png" width="140" alt="Layer5 Design Pioneer — Level 1" />
-  </a>
-</div>
+<img align="right" width="140" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="Layer5 Design Pioneer — Level 1" />
 
 **Cloud & DevOps Enthusiast ☁️**
 
