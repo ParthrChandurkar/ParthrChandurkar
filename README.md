@@ -13,6 +13,12 @@ I'm an IT student at VIIT Pune, India, exploring cloud infrastructure, automatio
 - 🌱 Starting my **open-source journey** and looking to collaborate
 - ⚽ Beyond academics: **Football, Formula 1, and fiction**
 
+<div align="center">
+  <a href="https://cloud.layer5.io/user/46dc1a83-ac8d-41e6-882b-a98b5a789e86?tab=badges&badge=first-design">
+    <img width="175" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="Layer5 Design Pioneer — Level 1" />
+  </a>
+</div>
+
 ### 💼 Experience
 
 - **ClueStack — Creator & Lead Engineer:** Built a local-first Kubernetes deployment and observability platform using Python, FastAPI, and React, integrating Prometheus, Loki, Alertmanager, and GitHub Actions for infrastructure visibility and automation.
